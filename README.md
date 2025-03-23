@@ -1,7 +1,5 @@
 # Banner Web Application
 
-# Banner and BannerForm Project
-
 This project demonstrates a dynamic banner component (`Banner`) and a form (`BannerForm`) to customize the banner's appearance and content. The banner supports dynamic updates for background color, title, text, description, background image, and list items.
 
 ## Features
