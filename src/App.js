@@ -1,7 +1,11 @@
-import "./App.css";
+import BannerForm from "./components/BannerForm";
 
 function App() {
-  return <div></div>;
+  return (
+    <div>
+      <BannerForm />
+    </div>
+  );
 }
 
 export default App;
